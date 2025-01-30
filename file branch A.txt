@@ -1,0 +1,3 @@
+membuat file baru pada branch A
+baris ke-2 pada commit ke-1 branch A
+baris ke-3 pada commit ke-1 branch A
