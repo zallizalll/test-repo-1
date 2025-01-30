@@ -1,0 +1,3 @@
+ini contoh pembuatan file di branch main (master)
+ini baris kedua di buatnya di branch main
+baris ketigas dibuat pada branch main
